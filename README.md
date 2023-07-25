@@ -13,7 +13,7 @@ Refactored an app built with RESTful API to one built with an Apollo Server that
 6. [Questions](#questions)
 
 ## Installation
-You can view the app [here](https://jenwariner19.github.io/react-portfolio/).
+You can view the app [here]([https://jenwariner19.github.io/react-portfolio/](https://murmuring-river-53647-5e3a0c860313.herokuapp.com/)).
 
 ## Usage
 Screenshot
